@@ -34,7 +34,7 @@ Module Module1
             End If
 
             If arg = "/help" Then
-                Console.WriteLine(vbCrLf & "TAN IP Checker, Ver. 1.00 (8/12/2016), Nelonic Systems, LLC.  http://nelonic.com" & vbCrLf)
+                Console.WriteLine(vbCrLf & "TAN IP Checker, Ver. 1.00 (8/12/2016), toddnelson.net.  https://toddnelson.net" & vbCrLf)
                 Console.WriteLine("Syntax:")
                 Console.WriteLine(vbTab & "/fromemail=<email address to send from> (Required)")
                 Console.WriteLine(vbTab & "/toemail=<email address to send to> (Required)")
